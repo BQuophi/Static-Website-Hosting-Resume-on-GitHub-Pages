@@ -29,7 +29,7 @@ Additionally, if you are using [VSCode](https://code.visualstudio.com/download),
 1. Clone the repo using git or download the zip of the project on your local system.
 To clone
 ```bash
-$ git clone 
+$ git clone https://github.com/BQuophi/Static-Website-Hosting-Resume-on-GitHub-Pages.git
 ```
 
 2. Go into the `resume` directory and run
